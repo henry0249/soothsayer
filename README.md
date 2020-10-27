@@ -31,3 +31,4 @@ python main.py -p "predict" -m 2
 蓝色是真实数据  
 橙色是预测数据  
 ![](figure/predict_high.png)
+![](https://raw.githubusercontent.com/shaoshengsong/soothsayer/main/figure/predict_high.png)
