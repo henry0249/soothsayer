@@ -1,10 +1,15 @@
 Neural Network for Time Series Prediction.  
 Using the PyTorch to predict time series steps and sequences. Includes  stock market data.  
-Support LSTM,Bidirectional LSTM and so on model.   
-模型预测能力如何？  
-模型在多长时间后预测能力失效？    
+Support LSTM,Bidirectional LSTM and so on model.     
 
-如果您想加入自己的模型需要在model文件夹中增加您自己的神经网络      
+使用PyTorch实现的神经网络预测时间序列数据包括股市数据   
+
+
+
+模型预测能力如何？  
+模型在多长时间后预测能力失效？  
+模型包括   LSTM和Bidirectional LSTM   
+如果您想加入自己的模型需要在model文件夹中增加您自己的神经网络        
 
 运行方法  
 训练  
