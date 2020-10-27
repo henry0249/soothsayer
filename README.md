@@ -25,4 +25,9 @@ python main.py -p "predict" -m 2
 
 如果要启动可视化  
 命令行运行 python -m visdom.server  
-在浏览器输入 http://localhost:8097
+在浏览器输入 http://localhost:8097  
+
+预测结果  
+蓝色是真实数据  
+橙色是预测数据  
+![](figure/predict_high.png)
